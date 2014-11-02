@@ -7,6 +7,7 @@ The link url should be something like https://multicraft.mcprohosting.com/ and i
 
 Contributors
 ============
+ThePandemicMoon - Improved Code, Renamed to Multicraft Query - Project Leader
+
 chromestone - Main Project
 
-ThePandemicMoon - Improved Code, Renamed to Multicraft Query
